@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeiQiaoZhi, a second year Computer Science student studying at the University of Cambridge
+- 👋 Hi, I’m @LeiQiaoZhi, an upcoming third year Computer Science student studying at the University of Cambridge
 - Here is my [LinkedIn Profile](https://www.linkedin.com/in/qiaozhilei/)
 
 ---
