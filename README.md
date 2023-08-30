@@ -5,6 +5,7 @@
 
 One of my favorite hobbies is game development, and I absolutely enjoy taking part in thrilling game jams! Below, you can find the source code of some projects that I am particularly proud of:
 
+0. I am working on a **[2D puzzle game](https://github.com/LeiQiaoZhi/NumberSliderGame)** related to numbers and maths. It has been in development for a month.
 1. **[Neon Dash](https://github.com/LeiQiaoZhi/NeonDash)**: 2D arcade/action game in Unity, Ranked 4 overall, Mini Game Jam 128.
 2. **[Mayi Garden](https://github.com/LeiQiaoZhi/MAYIGarden)**: 2D base defence game in Unity, Winner of best use of theme, Cambridge Game Jam 2023.
 3. **Cascade Down**: 3D platformer game in Unity, Ranked 23 overall, Mini Game Jam 104.
