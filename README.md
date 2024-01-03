@@ -11,7 +11,7 @@ One of my favorite hobbies is game development, and I absolutely enjoy taking pa
 1. **[Neon Dash](https://github.com/LeiQiaoZhi/NeonDash)**: 2D arcade/action game in Unity, Ranked 4 overall, Mini Game Jam 128.
 2. **[Mayi Garden](https://github.com/LeiQiaoZhi/MAYIGarden)**: 2D base defence game in Unity, Winner of best use of theme, Cambridge Game Jam 2023.
 3. **Cascade Down**: 3D platformer game in Unity, Ranked 23 overall, Mini Game Jam 104.
-4. Experimental Projects: procedural 3D terrain generation, [wave function collapse](https://github.com/LeiQiaoZhi/WaveFunctionCollapseUnity/tree/master) in Unity.
+4. Experimental Projects: [wave function collapse](https://github.com/LeiQiaoZhi/WaveFunctionCollapseUnity/tree/master) in Unity.
 5. Tools: A [Dialogue Manager&Visualization Tool](https://github.com/LeiQiaoZhi/UnityDialogueSystem) in Unity.
 
 All of the games can be played on my [itch.io page](https://georgelei.itch.io/).
