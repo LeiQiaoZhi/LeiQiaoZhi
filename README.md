@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @LeiQiaoZhi, an upcoming third year Computer Science student studying at the University of Cambridge
 - Here is my [LinkedIn Profile](https://www.linkedin.com/in/qiaozhilei/)
 
+Dissertation project I am working on: [Complex Procedural Terrain with Raymarching and Implicit Representation in Real Time](https://github.com/LeiQiaoZhi/procedural-implicit-terrain-raymarching)
+
 ---
 
 One of my favorite hobbies is game development, and I absolutely enjoy taking part in thrilling game jams! Below, you can find the source code of some projects that I am particularly proud of:
 
-0. I am working on a **[2D puzzle game](https://github.com/LeiQiaoZhi/NumberSliderGame)** related to numbers and maths. It has been in development for a month.
+0. I developed on a **[2D puzzle game](https://github.com/LeiQiaoZhi/NumberSliderGame)** related to numbers and maths. It had been in development for 2-3 months.
 1. **[Neon Dash](https://github.com/LeiQiaoZhi/NeonDash)**: 2D arcade/action game in Unity, Ranked 4 overall, Mini Game Jam 128.
 2. **[Mayi Garden](https://github.com/LeiQiaoZhi/MAYIGarden)**: 2D base defence game in Unity, Winner of best use of theme, Cambridge Game Jam 2023.
 3. **Cascade Down**: 3D platformer game in Unity, Ranked 23 overall, Mini Game Jam 104.
