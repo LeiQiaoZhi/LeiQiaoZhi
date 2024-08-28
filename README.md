@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LeiQiaoZhi, a third year **Computer Science** student studying at the **University of Cambridge**
+👋 Hi, I’m @LeiQiaoZhi, a Computer Science graduate from the University of Cambridge. I'm currently pursuing my MS in Computer Science (Game Development) at the University of Southern California.
 - Here is my [LinkedIn Profile](https://www.linkedin.com/in/qiaozhilei/)
 
-Dissertation project I am working on: [Complex Procedural Terrain with Raymarching and Implicit Representation in Real Time](https://github.com/LeiQiaoZhi/procedural-implicit-terrain-raymarching)
+Dissertation project I finished last year: [Complex Procedural Natural Environments with Raymarching and Implicit Representation in Real Time](https://github.com/LeiQiaoZhi/procedural-implicit-terrain-raymarching)
 
 ---
 
