@@ -1,4 +1,4 @@
-👋 Hi, I’m @LeiQiaoZhi, a Computer Science graduate from the University of Cambridge. I'm currently pursuing my MS in Computer Science (Game Development) at the University of Southern California.
+👋 Hi, I’m Qiaozhi Lei, a **Computer Science** graduate from the University of Cambridge. I'm currently pursuing my MS in **Computer Science (Game Development)** at the University of Southern California.
 - Here is my [LinkedIn Profile](https://www.linkedin.com/in/qiaozhilei/)
 
 I love 🫖 **Computer Graphics**, especially shaders:
