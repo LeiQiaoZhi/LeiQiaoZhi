@@ -1,27 +1,18 @@
-👋 Hi, I’m Qiaozhi Lei, a **Computer Science** graduate from the University of Cambridge. I'm currently pursuing my MS in **Computer Science (Game Development)** at the University of Southern California.
-- Here is my [LinkedIn Profile](https://www.linkedin.com/in/qiaozhilei/)
-- Here is my [Portfolio](https://qiaozhilei.carrd.co)
+# Hi! I'm Qiaozhi Lei  
 
-I love 🫖 **Computer Graphics**, especially shaders:
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)
+](https://www.linkedin.com/in/qiaozhilei) &nbsp;
+[![image](https://img.shields.io/badge/ArtStation-334E8A?style=for-the-badge&logoColor=44A1EC&color=254673)
+](https://www.artstation.com/qiaozhi_lei) &nbsp;
+[![Website](https://img.shields.io/badge/Website-333A8A?style=for-the-badge)](https://qiaozhilei.carrd.co/) 
 
-- Dissertation project I finished last year: [Complex Procedural Natural Environments with Raymarching and Implicit Representation in Real Time](https://github.com/LeiQiaoZhi/procedural-implicit-terrain-raymarching) (The entire renderer is implemented as a shader)
-- A [web shader editor](https://github.com/LeiQiaoZhi/shader-web) (similar to shadertoy.com) that supports multi-pass rendering, live preview, and tweaking uniform values in real-time via user created widgets. 
+- 🫖 I am a **Technical Artist** with a strong background in computer science and graphics programming.
+- 🇺🇸 I work on Last Sentinel @ Lightspeed LA in Irvine, CA.
+- 💛 I am passionate about shaders, tools, and PCG.
+  
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/4b276b40-c8d4-4acf-9e8a-cc68b475a302" width="250" />
+  <img src="https://github.com/user-attachments/assets/4728b6f1-fae2-4511-812c-7d95ebe7bde8" width="250" />
+  <img src="https://github.com/user-attachments/assets/daaa6bb8-39e7-4cb5-abd2-a0aabd050792" width="250" />
+</p>
 
-
----
-
-One of my favorite hobbies is 🎮 **Game Development**, and I absolutely enjoy taking part in thrilling game jams! Below, you can find the source code of some projects that I am particularly proud of:
-
-0. I developed on a **[2D mobile puzzle game](https://github.com/LeiQiaoZhi/NumberSliderGame)** related to numbers and maths. It was developed in 3 months.
-1. **[Neon Dash](https://github.com/LeiQiaoZhi/NeonDash)**: 2D arcade/action game in Unity, Ranked 4 overall, Mini Game Jam 128.
-2. **[Mayi Garden](https://github.com/LeiQiaoZhi/MAYIGarden)**: 2D base defence game in Unity, Winner of best use of theme, Cambridge Game Jam 2023.
-3. **Cascade Down**: 3D platformer game in Unity, Ranked 23 overall, Mini Game Jam 104.
-4. Experimental Projects: [wave function collapse](https://github.com/LeiQiaoZhi/WaveFunctionCollapseUnity/tree/master) in Unity.
-5. Tools: A [Dialogue Manager&Visualization Tool](https://github.com/LeiQiaoZhi/UnityDialogueSystem) in Unity.
-
-All of the games can be played on my [itch.io page](https://georgelei.itch.io).
-
-<!---
-LeiQiaoZhi/LeiQiaoZhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
