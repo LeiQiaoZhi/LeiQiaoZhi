@@ -1,13 +1,14 @@
 # Hi! I'm Qiaozhi Lei  
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)
-](https://www.linkedin.com/in/qiaozhilei) &nbsp;
+](https://www.linkedin.com/in/qiaozhilei)
 [![image](https://img.shields.io/badge/ArtStation-334E8A?style=for-the-badge&logoColor=44A1EC&color=254673)
-](https://www.artstation.com/qiaozhi_lei) &nbsp;
+](https://www.artstation.com/qiaozhi_lei) 
 [![Website](https://img.shields.io/badge/Website-333A8A?style=for-the-badge)](https://qiaozhilei.carrd.co/) 
 
 - 🫖 I am a **Technical Artist** with a strong background in computer science and graphics programming.
 - 🇺🇸 I work on Last Sentinel @ Lightspeed LA in Irvine, CA.
+- 🎓 B.A. Computer Science, University of Cambridge | M.S. Computer Science (Game Development), USC
 - 💛 I am passionate about shaders, tools, and PCG.
   
 <p align="left">
